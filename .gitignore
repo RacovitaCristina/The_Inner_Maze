@@ -55,14 +55,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# Crashlytics generated file
-crashlytics-build.properties
-*.fbx
-*.mp4
-*.mov
-*.avi
-*.obj
-
 # --- Vuforia / pachete mari locale ---
 /Packages/*.tgz
 /Packages/com.ptc.vuforia.engine-*.tgz
