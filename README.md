@@ -30,31 +30,35 @@ https://www.youtube.com/watch?v=WxXeapMzNj4
 - majoritar schița în Unity a labirintului
 - ajutor documente
 - White Room
- (după săptămâna 8)
--triggere audio
--pereţi reactivi
--mixare înregistrări
--retuş hartă
+  
+ **(după săptămâna 8)**
+ 
+- triggere audio
+- pereţi reactivi
+- mixare înregistrări
+- retuş hartă
 
 **Răzvan**
 - set-up Unity6, căutare asseturi
 - ajutor documente
 - început actualizarea unui asset cu particule
 - White Room
-  (după săptămâna 8)
--ochii statui
--subtitrări
--triggere audio
--freeze
--urmărirea la partea cu păianjeni
--buton jump-stay
+  
+  **(după săptămâna 8)**
+  
+- ochii statui
+- subtitrări
+- triggere audio
+- freeze
+- urmărirea la partea cu păianjeni
+- buton jump-stay
 
 **Ștefan**
 - ajutor documente
 - căutare materiale, dezvoltare idee de joc
 - ajutor în Unity
 - creativitate joc – dialog
-  (după săptămâna 8)
--păianjen
--înregistrări voce
--pereţi
+  **(după săptămâna 8)**
+- păianjen
+- înregistrări voce
+- pereţi
