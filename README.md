@@ -17,7 +17,9 @@ https://www.youtube.com/watch?v=WxXeapMzNj4
 - completare documente
 - ajutor schiță pe Unity a labirintului
 - început fântâna din final în Blender
+
   **(după săptămâna 8)**
+  
 - înregistrări de voce
 - convertiri format potrivit înregistrări
 - fântâna
