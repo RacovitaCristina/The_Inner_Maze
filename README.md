@@ -18,11 +18,11 @@ https://www.youtube.com/watch?v=WxXeapMzNj4
 - ajutor schiță pe Unity a labirintului
 - început fântâna din final în Blender
   (după săptămâna 8)
--înregistrări de voce
--convertiri format potrivit înregistrări
--fântâna
--urcat + testat constant pe cască
--collider podea
+- înregistrări de voce
+- convertiri format potrivit înregistrări
+- fântâna
+- urcat + testat constant pe cască
+- collider podea
 
 **Rareș**
 - majoritar schița în Unity a labirintului
